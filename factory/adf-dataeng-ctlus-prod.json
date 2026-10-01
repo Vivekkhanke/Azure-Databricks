@@ -1,0 +1,15 @@
+{
+	"name": "adf-dataeng-ctlus-prod",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e36727f5-54a0-4f4b-aa2e-7583ded91a48",
+		"tenantId": "4c325749-1aa5-4b10-9a84-f931e46e76ec"
+	}
+}
